@@ -6,30 +6,42 @@
 
 
 ## About:
-My name is David Shirley and I am currently a Machine Learning Student at Flatiron.<br>I am currently located in NY 
+My name is David Shirley and I am currently a Machine Learning Student.<br>I am currently located in Queen, NY and my area of interests are ML/DL and C++ programming.<br>
+
+
 
 ## Projects
 
 [Pet Store Location](https://github.com/DavidKentShirley/Pet_Store_Location_Analysis) - A deep look into some NY pet store data from the Yelp Fusion API. 
 
+[Kings County Price Predictor](https://github.com/DavidKentShirley/Kings_County_Price_Pedictor) - Working with Regression Models and Learning about Stats.
+
+[Gender Classification](https://github.com/DavidKentShirley/Gender_Classification_ML) - Using ML to classify images of people into respective Genders.
+
 ## Currently Working On
 
-[C++ matching app](https://github.com/DavidKentShirley/Match_Making)
+[C++ matching app](https://github.com/DavidKentShirley/Match_Making) - 
 
-[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML)
+[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - 
 
-[Gender Classifier](https://github.com/DavidKentShirley/Gender_Classification_ML)
-
-
+BTC Price Predictor - 
 
 
 
+# Next Project Ideas
 
-# Languages I Currently Know
+1) Chat bot that has the ability to maintain a conversation with a user and can be fun to use for all people. 
+2) Q&A model that can answer questions that a user asks and has an out put of an answer which could possibly come from 18th century ideology.
+3) 
 
-Python 
 
-C++
+# Programming Languages I Currently Know
+
+Python (6 Years )
+
+SQL (6 Years)
+
+C++ (2 Years)
 
 
 
@@ -42,3 +54,13 @@ C++
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DavidKentShirley)  
+
+
+
+# Contact Info
+
+Website - ClickHere
+
+LinkedIn - ClickHere
+
+Medium - ClickHere
