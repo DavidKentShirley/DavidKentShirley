@@ -48,18 +48,15 @@ C++ (2 Years)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKentShirley)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DavidKentShirley)  
+  
 
 
 
 # Contact Info
 
-Website - ClickHere
+Website - [ClickHere](https://www.goldenrainfall.pw/)
 
-LinkedIn - ClickHere
+LinkedIn - [ClickHere](https://www.linkedin.com/in/david-shirley-0118381b3/)
 
 Medium - ClickHere
+
