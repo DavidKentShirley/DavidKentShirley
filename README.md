@@ -14,7 +14,7 @@ My name is David Shirley and I am currently a Machine Learning Student.<br>I am 
 
 [Pet Store Location](https://github.com/DavidKentShirley/Pet_Store_Location_Analysis) - A deep look into some NY pet store data from the Yelp Fusion API. 
 
-[Kings County Price Predictor](https://github.com/DavidKentShirley/Kings_County_Price_Pedictor) - Working with Regression Models and Learning about Stats.
+[Kings County Price Predictor](https://github.com/DavidKentShirley/Kings_County_Price_Pedictor) - Working with Regression Models and Stats.
 
 [Gender Classification](https://github.com/DavidKentShirley/Gender_Classification_ML) - Using ML to classify images of people into respective Genders.
 
@@ -22,9 +22,9 @@ My name is David Shirley and I am currently a Machine Learning Student.<br>I am 
 
 [C++ matching app](https://github.com/DavidKentShirley/Match_Making) - 
 
-[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - 
+[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.
 
-BTC Price Predictor - 
+[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC
 
 
 
@@ -32,7 +32,7 @@ BTC Price Predictor -
 
 1) Chat bot that has the ability to maintain a conversation with a user and can be fun to use for all people. 
 2) Q&A model that can answer questions that a user asks and has an out put of an answer which could possibly come from 18th century ideology.
-3) 
+3) Recreate the gender classifier but in C++. 
 
 
 # Programming Languages I Currently Know
@@ -42,7 +42,6 @@ Python (6 Years )
 SQL (6 Years)
 
 C++ (2 Years)
-
 
 
 
