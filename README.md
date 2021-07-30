@@ -20,11 +20,11 @@ My name is David Shirley and I am currently a Machine Learning Student.<br>I am 
 
 ## Currently Working On
 
-[C++ matching app](https://github.com/DavidKentShirley/Match_Making) - 
+[C++ matching app](https://github.com/DavidKentShirley/Match_Making) - Making an app like tinder, will match people based on common features.(5%)
 
-[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.
+[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.(5%)
 
-[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC
+[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC (70%)
 
 
 
@@ -48,7 +48,7 @@ C++ (2 Years)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKentShirley)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  
+
 
 
 
