@@ -54,9 +54,9 @@ C++ (2 Years)
 
 # Contact Info
 
-Website - [ClickHere](https://www.goldenrainfall.pw/)
+Website - [Click Here](https://www.goldenrainfall.pw/)
 
-LinkedIn - [ClickHere](https://www.linkedin.com/in/david-shirley-0118381b3/)
+LinkedIn - [Click Here](https://www.linkedin.com/in/david-shirley-0118381b3/)
 
-Medium - ClickHere
+Medium - Click Here
 
