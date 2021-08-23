@@ -24,7 +24,7 @@ My name is David Shirley and I am currently a Machine Learning Student.<br>I am 
 
 [Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.(5%)
 
-[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC (70%)
+[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC (90%)
 
 
 
