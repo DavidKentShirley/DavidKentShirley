@@ -6,9 +6,11 @@
 
 
 ## About:
-My name is David Shirley and I am currently a Machine Learning Student.<br>I am currently located in Queen, NY and my area of interests are ML/DL and C++ programming.<br>
+My name is David Shirley and I am currently a Data Engineer (Looking for a Job).<br>I am currently located in Queen, NY and my area of interests are ML/DL and C++ programming.<br>
 
+I am currently working on a few independent projects and have completed a few other projects which you should check out if you are interested. Most of my projects are Data Science related and most of my future ones will be to. I am currently learning C++ and working with ML applications with C++. <br>
 
+If you are interested in getting in contact with me my contact information is listed at the bottom of the page.
 
 ## Projects
 
