@@ -14,19 +14,19 @@ If you are interested in getting in contact with me my contact information is li
 
 ## Projects
 
-[Pet Store Location](https://github.com/DavidKentShirley/Pet_Store_Location_Analysis) - A deep look into some NY pet store data from the Yelp Fusion API. 
+[Fast API](https://github.com/DavidKentShirley/Python-Projects/tree/main/Python-FastAPI-Basic1/TodoApp) - A project based around FastAPI
 
-[Kings County Price Predictor](https://github.com/DavidKentShirley/Kings_County_Price_Pedictor) - Working with Regression Models and Stats.
+[Kings County Price Predictor](https://github.com/DavidKentShirley/Python-Projects/tree/main/Kings%20County%20Price%20Pedictor) - Working with Regression Models and Stats.
 
-[Gender Classification](https://github.com/DavidKentShirley/Gender_Classification_ML) - Using ML to classify images of people into respective Genders.
+[Gender Classification](https://github.com/DavidKentShirley/Python-Projects/tree/main/Gender%20Classification%202.0) - Using ML to classify images of people into respective Genders.
 
-## Currently Working On
+## Other Projects (Not completed/Concept Overview)
 
-[C++ matching app](https://github.com/DavidKentShirley/Match_Making) - Making an app like tinder, will match people based on common features.(5%)
+[C++ matching app](https://github.com/DavidKentShirley/Match_Making) - Making an app like tinder, will match people based on common features.
 
-[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.(5%)
+[Artist Recognition](https://github.com/DavidKentShirley/Artist_Recognition_ML) - Using Machine learning to classify celebrities based on photos of them.
 
-[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC (90%)
+[BTC Price Predictor](https://github.com/DavidKentShirley/BTC_Price_Predictor) - Using Machine Learning and Deep Learning frameworks to predict the future price of BTC 
 
 
 
@@ -34,31 +34,26 @@ If you are interested in getting in contact with me my contact information is li
 
 1) Chat bot that has the ability to maintain a conversation with a user and can be fun to use for all people. 
 2) Q&A model that can answer questions that a user asks and has an out put of an answer which could possibly come from 18th century ideology.
+
 3) Recreate the gender classifier but in C++. 
 
 
 # Programming Languages I Currently Know
 
-Python (6 Years )
+Python (6 Years EXP)
 
-SQL (6 Years)
+JavaScript (3 Years EXP)
 
-C++ (2 Years)
+SQL (6 Years EXP)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKentShirley)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+C++ (2 Years EXP)
 
 
 # Contact Info
 
-Website - [Click Here](https://www.goldenrainfall.pw/)
+Website - [Click Here](https://www.davidkentshirley.net)
 
-LinkedIn - [Click Here](https://www.linkedin.com/in/david-shirley-0118381b3/)
+LinkedIn - [Click Here](https://www.linkedin.com/in/david-kent-shirley/)
 
-Medium - Click Here
+
 
